@@ -1,0 +1,10 @@
+__pycache__
+data*
+tmp/
+test.py
+envs/
+mobile_sam.pt
+yolov8l-world.pt
+.history
+exp*
+human.py
