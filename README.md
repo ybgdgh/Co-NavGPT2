@@ -17,8 +17,6 @@ Visual target navigation is a critical capability for autonomous robots operatin
 
 ## Installation
 
-The code has been tested only with Python 3.8, CUDA 12.1.
-
 ### Installing Dependencies
 - Setup the conda environment as Python3.8 + CUDA11.8 + PyTorch2.0.1.
     ```
