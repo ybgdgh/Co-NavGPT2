@@ -1,7 +1,7 @@
 
-# Towards Collaborative Semantic Visual Navigation via Vision Language Models
+# Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation Using Vision Language Models
 
-[**Project Page**](https://sites.google.com/view/co-navgpt2)
+[**Project Page**](https://sites.google.com/view/co-navgpt2) | [**Video**](https://youtu.be/vnOJDUoQ7A8)
 
 We proposed a new framework to explore and search for the target in unknown environment based on Vision Language Model. Our work is based on [VLN-Game](https://sites.google.com/view/vln-game). You can find the code of this paper about simulation and real-world implementation in ros2 foxy.
 
