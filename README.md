@@ -1,7 +1,7 @@
 
 # Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation Using Vision Language Models
 
-[**Project Page**](https://sites.google.com/view/co-navgpt2) | [**Video**](https://youtu.be/vnOJDUoQ7A8)
+[**ArXiv**](https://arxiv.org/abs/2310.07937v3) | [**Project Page**](https://sites.google.com/view/co-navgpt2) | [**Video**](https://youtu.be/vnOJDUoQ7A8)
 
 We proposed a new framework to explore and search for the target in unknown environment based on Vision Language Model. Our work is based on [VLN-Game](https://sites.google.com/view/vln-game). You can find the code of this paper about simulation and real-world implementation in ros2 foxy.
 
@@ -105,7 +105,7 @@ You can find the code that how to use two Unitree Go2 robots to run the multi-ro
     sudo pip3 install transforms3d
     pip install numpy-quaternion
     ```
-3. Config your real robots and sensors following this [instruction](https://docs.ros.org/en/foxy/Installation.html). Each robot has its namespace with robot ID, such as `robot_0`, `robot_1`, ....
+3. Config your real robots and sensors following this [instruction](https://github.com/ASIG-X/Go2Go). Each robot has its namespace with robot ID, such as `robot_0`, `robot_1`, ....
 4. Enable the conda environemnt
    ```
    conda activate co-nav
